@@ -1,0 +1,35 @@
+.nav-link {
+	
+	display: flex;
+	align-items: center;
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+	line-height: 14px;
+	color: white;
+	font-weight: bold;
+}
+.navbar-brand img {
+	width: 100px;
+	height: 35px;
+	
+}
+.nav-item-right {
+	padding-left: 200px;
+	align-items: center;
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+	line-height: 14px;
+	color: white;
+	font-weight: bold;
+}
+.info-left img {
+	width: 225px;
+	height: 70px;
+	align-items: flex-end;
+	border: 1px solid black;
+	justify-content: flex-end;
+	margin-right: 1000px;
+	margin-bottom: 400px;
+	margin-left: -200px;
+}
+
