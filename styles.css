@@ -1,35 +1,30 @@
-.nav-link {
-	
-	display: flex;
-	align-items: center;
-	font-family: 'Roboto', sans-serif;
-	font-size: 14px;
-	line-height: 14px;
-	color: white;
-	font-weight: bold;
+
+.content {
+	background-color: black;
 }
-.navbar-brand img {
-	width: 100px;
-	height: 35px;
-	
-}
-.nav-item-right {
-	padding-left: 200px;
-	align-items: center;
-	font-family: 'Roboto', sans-serif;
-	font-size: 14px;
-	line-height: 14px;
-	color: white;
-	font-weight: bold;
-}
-.info-left img {
-	width: 225px;
-	height: 70px;
-	align-items: flex-end;
-	border: 1px solid black;
-	justify-content: flex-end;
-	margin-right: 1000px;
-	margin-bottom: 400px;
-	margin-left: -200px;
+.main-content {
+	max-width: 1450px;
+	margin: auto;
+
 }
 
+.blue-book {
+	max-width: 800px;
+}
+.nav-black {
+	background-color: black;
+}
+.navbar-inverse .navbar-toggler-icon {
+
+		  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+
+}
+.navbar-bottom {
+	max-width: 1450px;
+	margin: auto;
+	background-color: black;
+	color: lightgrey;
+}
+.body {
+	background-color: black;
+}
